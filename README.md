@@ -1,1 +1,1 @@
-# odin-recipes
+brief reflection of git & html basics
